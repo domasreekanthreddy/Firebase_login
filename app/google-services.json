@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "614247951960",
+    "firebase_url": "https://fir-logi-56e5d.firebaseio.com",
+    "project_id": "fir-logi-56e5d",
+    "storage_bucket": "fir-logi-56e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614247951960:android:98c2d5eb73256445",
+        "android_client_info": {
+          "package_name": "com.example.sreekanth.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614247951960-73ptj2httfe00au98al46puhq9jqltjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sreekanth.firebaselogin",
+            "certificate_hash": "8b50fc7d560d01a016d22863da09b03b041e145f"
+          }
+        },
+        {
+          "client_id": "614247951960-h0bc8a5frssvd5r5k4ekkp44mg9dl67m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTTsfLQBBoPfRSUX0LV5M6kGqUNlD020w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614247951960-h0bc8a5frssvd5r5k4ekkp44mg9dl67m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
